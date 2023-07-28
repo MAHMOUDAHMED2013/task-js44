@@ -1,0 +1,198 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+  
+    background-color: rgba(238, 238, 237, 0.178);
+}
+
+H1{
+
+font-style: italic;
+font-family: 'Sirin Stencil', cursive;
+    text-align: center;
+    
+}
+.img3{
+    height: 80px;
+}
+.dot{
+    margin: 0 auto;
+    height: 3px;
+    width: 100px;
+    color: blue;
+    background-color: blue;
+    transition: 3s;
+}
+.dot:hover{
+    width: 200px;
+    
+}
+.card{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+a{
+    text-decoration: none;
+}
+ .list li{
+    font-family: 'Sirin Stencil', cursive;
+    font-size: 21px;
+    text-decoration: none;
+    color: blue;
+}
+.nav-link{
+    font-family: 'Sirin Stencil', cursive;
+    font-size: 30px;
+    margin-left: 30px;
+    color: rgba(0, 0, 0, 0.863);
+    transition: transform 0.5s;
+}
+.nav-link:hover{
+    transform: scale(1.1,1.1);  
+}
+a{
+    font-family: 'Sirin Stencil', cursive;
+   font-weight: bold;
+   letter-spacing: 2px;
+  
+}
+#btn1{
+    text-align: center;
+    margin: 0 auto;
+    background-color: rgba(23, 23, 252, 0.815);
+    border-radius: 5px ;
+    width: 150px;
+    color: white;
+    border: 1px solid rgba(23, 23, 252, 0.815);
+} 
+#btn1:hover{
+    opacity: .9;
+}
+.parent{
+    font-family: 'Sirin Stencil', cursive;
+    text-align: center;
+    margin: 0 auto;
+    border: 1px solid rgb(170, 170, 170);
+    background-color: rgb(255, 255, 255);
+    /* color: white; */
+    border-radius: 8px;
+  
+}
+
+
+.card{
+    transition: transform 0.5s;
+}
+.card:hover{
+    transform: scale(1.1,1.1);
+    background-color: rgba(126, 126, 126, 0);
+   
+}
+/* footer///////////////////////////////////////////////////////////////// */
+.parent1{
+    width: 100%;
+    height: 300px;
+ background-color: white;
+margin-top: 100px
+    }
+
+
+.img4{
+height: 200px;
+}
+
+.list2{
+    text-decoration:none;
+    margin-left: 400px;
+    margin-top: -150px;
+    list-style: none;
+}
+.a1{
+    
+text-decoration:none;
+color: black;
+}
+.a1:hover{
+    opacity: .7;
+}
+.li1{
+    text-decoration:none;
+}
+.li2{
+    font-size: 23px;
+    font-family: 'Sirin Stencil', cursive;
+    margin-left: -5px;
+}
+/* //////////////////////////// */
+.list3{
+    text-decoration: none;
+    list-style: none;
+    margin-left: 620px;
+    margin-top: -220px;
+    font-size: 22px;
+    letter-spacing: 2px;
+    font-family: 'Sirin Stencil', cursive;
+}
+.a22{
+    color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+.a22:hover{
+    opacity: .8;
+}
+/* //////////////////////////////// */
+
+h5{
+    font-size: 23px;
+    margin-left: 300px;
+    margin-top: -150px;
+    font-family: 'Sirin Stencil', cursive;
+    letter-spacing: 2px;
+}
+.dot2{
+    margin-top: -80px;
+    width: 2px;
+    height: 100px;
+background-color: black;
+margin-left: 450px;
+}
+.logo2{
+    
+    margin-top: -130px;
+    margin-left: 700px;
+}
+.rate1{
+    margin-left: 470px;
+    margin-top: -90px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 27px;
+
+}
+/* ///////////////////////////////////////// */
+
+.login{
+    float: right;
+    margin-right: 250px;
+    margin-top: 40px;
+    white-space: nowrap;
+   
+}
+.h55{
+    margin-left: 0px;
+}
+.ll1{
+    color: black;
+font-size: 20px;
+   
+}
+.ll1:hover{
+    opacity: .7;
+    color: rgba(79, 79, 240, 0.836);
+}
